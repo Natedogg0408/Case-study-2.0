@@ -1,0 +1,38 @@
+body{
+    background-color: grey;
+
+}
+
+span{
+    color:red;
+    font-size:18px;
+}
+
+.test_image_and_results{
+    background-color:white;
+    padding:30px;
+    border-radius:20px;
+    width: 50%;
+    display:inline-block;
+    margin:10px;
+    box-shadow: 5px 5px 38px white;
+}
+
+.mini_result{
+    text-align:center;
+    background-color: teal;
+    color:white;
+    border-radius: 20px;
+    padding:10px;
+}
+
+.copyright_footer{
+    position:fixed;
+    background-color: white;
+    color:grey;
+    bottom:0;
+    width:100%;
+    line-height:3;
+    text-align:center;
+}
+
